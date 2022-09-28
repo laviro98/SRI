@@ -2,5 +2,5 @@
 ## Tema 0
 | EJERCICIO | Objetivos |
 | --- | --- |
-| `rellenar aqui` | rellenar aqui |
+| `Python` | Servidor web |
 | `rellenar aqui` | rellenar aqui |
