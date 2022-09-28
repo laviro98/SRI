@@ -1,5 +1,5 @@
 # SRI
-## Tema 1
+## Tema 0
 | EJERCICIO | Objetivos |
 | --- | --- |
 | `rellenar aqui` | rellenar aqui |
