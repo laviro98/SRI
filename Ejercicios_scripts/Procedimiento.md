@@ -13,3 +13,11 @@ Los scripts se encargan de cumplir las siguientes funciones:
 - Configurar o instalar sistemas operacionales, especialmente en los juegos, se usa para controlar las acciones de los personajes.
 
 Listado de ejercicios:
+
+[Ejercicio 1] (https://github.com/laviro98/SRI/blob/main/Ejercicios_scripts/Ejercicio1.sh)
+[Ejercicio 2]()
+
+
+
+
+
