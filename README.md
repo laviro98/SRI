@@ -1,4 +1,12 @@
-# SRI
+# SRI 
+![sri](https://user-images.githubusercontent.com/114391559/197479151-674795a6-18d3-46e1-9d35-25ef1dde05f2.png)
+
+## Objetivos:
+- Los procesos de instalación y administración de servicios de red.
+- Los procesos de instalación y administración de servicios de Internet básicos.
+- Los procesos de instalación y administración de servicios de Internet relacionados con el acceso seguro y controlado a la información.
+- Los procesos de instalación y administración de servicios multimedia.
+
 ## Tema 1
 | EJERCICIO | Objetivos |
 | --- | --- |
