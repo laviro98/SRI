@@ -14,8 +14,8 @@ Los scripts se encargan de cumplir las siguientes funciones:
 
 Listado de ejercicios:
 
-[Ejercicio 1] (https://github.com/laviro98/SRI/blob/main/Ejercicios_scripts/Ejercicio1.sh)
-[Ejercicio 2]()
+[Ejercicio 1] (Ejercicio1.sh)
+[Ejercicio 2] (Ejercicio2.sh)
 
 
 
