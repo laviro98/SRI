@@ -14,8 +14,9 @@ Los scripts se encargan de cumplir las siguientes funciones:
 
 Listado de ejercicios:
 
-[Ejercicio 1] (Ejercicio1.sh)
-[Ejercicio 2] (Ejercicio2.sh)
+[Ejercicio 1](Ejercicio1.sh)
+
+[Ejercicio 2](Ejercicio2.sh)
 
 
 
