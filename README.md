@@ -2,5 +2,5 @@
 ## Tema 0
 | EJERCICIO | Objetivos |
 | --- | --- |
-| [link](www.google.es) | Servidor web |
-| `rellenar aqui` | rellenar aqui |
+| [Ejercicio 1](www.google.es) | SCRIPT añadir nuevo puerto |
+| [Ejercicio 2](www.google.es | SCRIPT añadir dominio e ip nueva |
